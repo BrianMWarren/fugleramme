@@ -62,7 +62,7 @@ I'm affiliated with Pimoroni - buying through the Pimoroni links or using the co
 ## Art
 
 Half the point of this project is showing off some amazing public-domain natural-history
-illustrations. Over 800 cut-outs covering more than 400 species, every one taken from a
+illustrations. Over 1000 cut-outs covering more than 500 species, every one taken from a
 real plate and hand-curated for this project (no art is AI-generated, though some has been
 retouched with AI).
 
@@ -70,11 +70,9 @@ Each detected species is matched to its illustration, background-removed, and pa
 a textured paper page with the larger birds toward the centre, sized by body mass. An empty
 window shows a bare perch.
 
-The plates are Scandinavian, British and central European, so the Nordics, the British Isles and Germany
-are best covered. Elsewhere not so much (yet). Broader European and North American
-coverage is in the works!
+Coverage is best across Europe and northern Asia, good in North America, and thinner in the tropics and the southern hemisphere thus far - however, it's quickly growing!
 
-[Species coverage](https://arnegiacomo.dev/fugleramme/species/) has a searchable list of all currently supported species. See [Adding artwork](docs/adding-artwork.md) for manual cutout steps.
+[Species coverage](https://arnegiacomo.dev/fugleramme/species/) has a searchable list of all currently supported species (pick your location to see which of your local birds are supported). See [Adding artwork](docs/adding-artwork.md) for manual cutout steps.
 
 | No detections | A few visitors | A full garden |
 | :---: | :---: | :---: |
