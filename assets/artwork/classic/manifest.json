@@ -23,6 +23,10 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeISparrow_Hawk.jpg"
   },
+  "birds/acridotheres-cristatellus.webp": {
+    "source": "edwards",
+    "url": "https://archive.org/details/naturalhistoryof11743edwa/page/n89"
+  },
   "birds/acridotheres-tristis.webp": {
     "source": "legge",
     "url": "https://archive.org/stream/historyofbirdsof02legg#page/n59/mode/1up"
@@ -1895,6 +1899,10 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsIEuropeISparrow_Owl.jpg"
   },
+  "birds/gracupica-nigricollis.webp": {
+    "source": "swainson",
+    "url": "https://www.biodiversitylibrary.org/page/38128440"
+  },
   "birds/grallina-cyanoleuca.webp": {
     "source": "gould",
     "url": "https://www.biodiversitylibrary.org/page/48200704"
@@ -2735,6 +2743,10 @@
     "source": "gould",
     "url": "https://www.biodiversitylibrary.org/page/48702814"
   },
+  "birds/orthotomus-sutorius.webp": {
+    "source": "gould",
+    "url": "https://archive.org/details/BirdsAsiaJohnGoIVGoul/page/n35"
+  },
   "birds/otus-scops.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsIEuropeIScops_Eared_Owl.jpg"
@@ -2755,6 +2767,10 @@
     "source": "dresser",
     "url": "https://commons.wikimedia.org/wiki/File:Panurus_biarmicus_(Dresser).jpg"
   },
+  "birds/parus-cinereus.webp": {
+    "source": "gould",
+    "url": "https://archive.org/details/BirdsAsiaJohnGoIIGoul/page/n227"
+  },
   "birds/parus-major-2.webp": {
     "source": "vonwright",
     "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_from_Svenska_F%C3%A5glar_(Swedish_Birds)_by_the_von_Wright_brothers_from_rawpixel%27s_original_edition_of_the_publication_00141.jpg"
@@ -2766,6 +2782,14 @@
   "birds/parus-major.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:The_birds_of_Europe_(1837)_(14771793513).jpg"
+  },
+  "birds/parus-minor-2.webp": {
+    "source": "siebold",
+    "url": "https://archive.org/details/faunajaponicasi4sieb/page/n248"
+  },
+  "birds/parus-minor.webp": {
+    "source": "gould",
+    "url": "https://archive.org/details/BirdsAsiaJohnGoIIGoul/page/n231"
   },
   "birds/passer-domesticus-2.webp": {
     "source": "vonwright",
@@ -3238,6 +3262,14 @@
   "birds/pterocles-orientalis.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIVSand_Grouse.jpg"
+  },
+  "birds/pterorhinus-perspicillatus-2.webp": {
+    "source": "arnoul",
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k1510968b/f115.item"
+  },
+  "birds/pterorhinus-perspicillatus.webp": {
+    "source": "cassin",
+    "url": "https://wellcomecollection.org/works/p4az8g6p"
   },
   "birds/ptyonoprogne-rupestris.webp": {
     "source": "gould",
