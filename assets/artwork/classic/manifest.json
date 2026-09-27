@@ -1187,6 +1187,22 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIVWood_Pigeon.jpg"
   },
+  "birds/copsychus-saularis-2.webp": {
+    "source": "gould",
+    "url": "https://archive.org/details/BirdsAsiaJohnGoIIIGoul/page/n103"
+  },
+  "birds/copsychus-saularis-3.webp": {
+    "source": "gwillim",
+    "url": "https://commons.wikimedia.org/wiki/File:Magpie_robin_Gwillim.jpg"
+  },
+  "birds/copsychus-saularis-4.webp": {
+    "source": "gould",
+    "url": "https://archive.org/details/BirdsAsiaJohnGoIIIGoul/page/n107"
+  },
+  "birds/copsychus-saularis.webp": {
+    "source": "levaillant",
+    "url": "https://commons.wikimedia.org/wiki/File:Copsychus_saularis_-_1796-1808_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ16300365.tif"
+  },
   "birds/coracias-garrulus-2.webp": {
     "source": "vonwright",
     "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_from_Svenska_F%C3%A5glar_(Swedish_Birds)_by_the_von_Wright_brothers_from_rawpixel%27s_original_edition_of_the_publication_00334.jpg"
@@ -3235,6 +3251,26 @@
     "source": "keulemans",
     "url": "https://commons.wikimedia.org/wiki/File:PycnonotusKeulemans.jpg"
   },
+  "birds/pycnonotus-jocosus-2.webp": {
+    "source": "collins",
+    "url": "https://archivalcollections.library.mcgill.ca/index.php/red-whiskered-bubul"
+  },
+  "birds/pycnonotus-jocosus-3.webp": {
+    "source": "edwards",
+    "url": "https://commons.wikimedia.org/wiki/File:Pycnonotus_jocosus_-_1700-1880_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ16400025.tif"
+  },
+  "birds/pycnonotus-jocosus.webp": {
+    "source": "gwillim",
+    "url": "https://archivalcollections.library.mcgill.ca/index.php/red-whiskered-bulbul-pycnonotus-jocosus"
+  },
+  "birds/pycnonotus-sinensis-2.webp": {
+    "source": "prevost",
+    "url": "https://commons.wikimedia.org/wiki/File:Oiseaux_(Plate_14)_(8202117797).jpg"
+  },
+  "birds/pycnonotus-sinensis.webp": {
+    "source": "gould",
+    "url": "https://commons.wikimedia.org/wiki/File:IxusSinensisGould.jpg"
+  },
   "birds/pyrrhocorax-graculus.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIIIAlpine_Chough.jpg"
@@ -3470,6 +3506,10 @@
   "birds/spatula-querquedula.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeVGargany_Teal.jpg"
+  },
+  "birds/spilopelia-chinensis.webp": {
+    "source": "knip",
+    "url": "https://archive.org/details/pigeons00temm/page/n250"
   },
   "birds/spilopelia-senegalensis.webp": {
     "source": "levaillant",
@@ -4002,6 +4042,10 @@
   "birds/zoothera-aurea.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIIWhitesThrush.jpg"
+  },
+  "birds/zosterops-simplex.webp": {
+    "source": "gould",
+    "url": "https://commons.wikimedia.org/wiki/File:Birds_of_Asia_-_by_John_Gould_(Plate_34)_(7609272650).jpg"
   },
   "birds/zosterops-virens.webp": {
     "source": "levaillant",
