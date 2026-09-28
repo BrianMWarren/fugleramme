@@ -3,7 +3,7 @@
 ## Find what is missing
 
 See [Species coverage](species.md). The admin page marks a bird the current style cannot draw with "no art". The
-frame logs the same list whenever re-renders:
+frame logs the same list whenever it re-renders:
 
 ```bash
 journalctl -u fugleramme-frame | grep "No artwork"
@@ -20,9 +20,7 @@ for its manifest and `ATTRIBUTION.md` entries.
 
 ## Prepare the image
 
-(WIP)
-
-Krita is my preferred tool of choice here (its free and easy to use)
+Krita is my preferred manual tool of choice here (it's free and easy to use)
 
 ### Cut out the bird
 
@@ -33,9 +31,17 @@ the background.
 
 Where a branch or stem (or other object) runs out of the cut, either fade it into the paper or cut it round so that it looks natural. A flat cut can be jarring.
 
+You don't have to cut a single bird free. A pair on one branch, or the whole plate with its plants and ground, is welcome - the [bird box](#box-the-bird) keeps the bird itself at the right size.
+
+### Match the colour
+
+Old scans are often faded, yellowed or washed out. If your bird looks washed out next to the birds already in the set, raise the saturation or contrast so it doesn't get overshadowed. Every bird should look like they're printed with the same strength.
+
 ### Add the halo
 
 The ring of paper around the bird helps us blend it to the page. The frame retones it to the sheet's own colour and feathers its edge, so the join disappears instead of reading as a cut-out pasted on. It also allows for less precise cutouts, backgrounds between legs or behind feathers, and gives some natural spacing.
+
+Scan-paper left inside the outline, like between the legs or under the tail, has to match the halo's colour. Either cut it out, or re-tone the paper and the halo to each other.
 
 Use **Image > Flatten Image** first.
 
@@ -66,7 +72,7 @@ artist/source keys are searched interactively. It uses `fzf` if available. Attri
 Export from your editor in whatever format suits you and the tool re-encodes the asset as WebP.
 Transparency is kept, and the file becomes about a sixth the size of the same image as PNG (keep repo and container image smaller).
 
-PNG are still supported. Drop one into your own `custom/` folder and the frame picks it up. WebP is only a rule for artwork commited to the repo.
+PNG are still supported. Drop one into your own `custom/` folder and the frame picks it up. WebP is only a rule for artwork committed to the repo.
 
 It supports dry-running:
 
@@ -93,7 +99,7 @@ This can be performed on many at the time:
 # one plate, by path or by filename
 uv run python tools/bird_box.py assets/artwork/classic/birds/strix-aluco.webp
 
-# the ones with no boudning box yet
+# the ones with no bounding box yet
 uv run python tools/bird_box.py --missing
 
 # everything added or changed but not yet committed
