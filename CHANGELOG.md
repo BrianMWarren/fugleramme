@@ -2,6 +2,102 @@
 
 <!-- version list -->
 
+## v0.26.0 (2026-09-28)
+
+### Chores
+
+- Add CODEOWNERS so PRs request my review
+  ([`f31aa96`](https://github.com/arnegiacomo/fugleramme/commit/f31aa966fa93ebc3770f4b1b7e7a4d097206d355))
+
+- **assets**: #33 add 3 variants of Anna's Hummingbird
+  ([#165](https://github.com/arnegiacomo/fugleramme/pull/165),
+  [`c690191`](https://github.com/arnegiacomo/fugleramme/commit/c6901913ce4d4d1dcd7085a1f1b61f86069dc2bb))
+
+- **assets**: #33 add 8 southwest Idaho birds
+  ([#155](https://github.com/arnegiacomo/fugleramme/pull/155),
+  [`89b45d3`](https://github.com/arnegiacomo/fugleramme/commit/89b45d335890f953db99883202ff85b4a6b5e33a))
+
+- **assets**: #33 add Anna's Hummingbird
+  ([#165](https://github.com/arnegiacomo/fugleramme/pull/165),
+  [`c690191`](https://github.com/arnegiacomo/fugleramme/commit/c6901913ce4d4d1dcd7085a1f1b61f86069dc2bb))
+
+- **assets**: #33 add Canyon Wren and Spotted Towhee
+  ([#157](https://github.com/arnegiacomo/fugleramme/pull/157),
+  [`55f1d5d`](https://github.com/arnegiacomo/fugleramme/commit/55f1d5dca1c77840571c82bdf6ad4063226d5a24))
+
+- **assets**: #33 add Chestnut-backed Chickadees
+  ([#163](https://github.com/arnegiacomo/fugleramme/pull/163),
+  [`fdccb43`](https://github.com/arnegiacomo/fugleramme/commit/fdccb4330c0f496b7190aa68e5e35aae1d37e27d))
+
+- **assets**: #33 add Hairy Woodpecker variant
+  ([#164](https://github.com/arnegiacomo/fugleramme/pull/164),
+  [`8234722`](https://github.com/arnegiacomo/fugleramme/commit/8234722c47b47ef275e53c053d44f1af77a0ee9c))
+
+- **assets**: #44 add 11 European species
+  ([#160](https://github.com/arnegiacomo/fugleramme/pull/160),
+  [`81fffae`](https://github.com/arnegiacomo/fugleramme/commit/81fffae479062fa05addb11fb78d24e0338bf69c))
+
+- **assets**: Add 2 Australian sacred kingfisher variants
+  ([#168](https://github.com/arnegiacomo/fugleramme/pull/168),
+  [`3ded976`](https://github.com/arnegiacomo/fugleramme/commit/3ded976dff54f106ad8b9c07dd1b200ddc5c5f4c))
+
+- **assets**: Add 5 Shenzhen birds
+  ([`b8b667d`](https://github.com/arnegiacomo/fugleramme/commit/b8b667d1a85f9e4cf974cf194eea9c6629efb308))
+
+- **assets**: Add 6 Shenzhen birds
+  ([`578d7b1`](https://github.com/arnegiacomo/fugleramme/commit/578d7b16b0b0f887686442cc73e82cf97014b14a))
+
+- **assets**: Add 6 South African species
+  ([#158](https://github.com/arnegiacomo/fugleramme/pull/158),
+  [`18863a2`](https://github.com/arnegiacomo/fugleramme/commit/18863a2be78add61a9945799be2c7305ce11d2c3))
+
+- **assets**: Add australasian figbird ([#172](https://github.com/arnegiacomo/fugleramme/pull/172),
+  [`2d2c134`](https://github.com/arnegiacomo/fugleramme/commit/2d2c13482a251bc1dafc2d5d8511203562d3c0e8))
+
+- **assets**: Add Australian buff-banded rail
+  ([#173](https://github.com/arnegiacomo/fugleramme/pull/173),
+  [`b163e49`](https://github.com/arnegiacomo/fugleramme/commit/b163e49cfedc4ab2fb600120d694078e5e39e0b1))
+
+- **assets**: Add Australian sacred kingfisher
+  ([#168](https://github.com/arnegiacomo/fugleramme/pull/168),
+  [`3ded976`](https://github.com/arnegiacomo/fugleramme/commit/3ded976dff54f106ad8b9c07dd1b200ddc5c5f4c))
+
+- **assets**: Add Pacific Koel ([#162](https://github.com/arnegiacomo/fugleramme/pull/162),
+  [`8531d84`](https://github.com/arnegiacomo/fugleramme/commit/8531d8402d1d8a1e769b7f7d5678f26cf9b8a93b))
+
+- **assets**: Add Red-Tailed Black Cockatoo
+  ([#167](https://github.com/arnegiacomo/fugleramme/pull/167),
+  [`4c52503`](https://github.com/arnegiacomo/fugleramme/commit/4c52503b0cdc14730e1fdad71d4ba717c924874e))
+
+- **assets**: Merge source keys into one per author
+  ([`e476a8c`](https://github.com/arnegiacomo/fugleramme/commit/e476a8c2a9b6a5661939b6757fdf7341d6555d6b))
+
+- **platereview**: Deepen washed-out cuts in finish.py
+  ([`97540e7`](https://github.com/arnegiacomo/fugleramme/commit/97540e77263063c93a078de15242e2dcdbc2aadc))
+
+- **render**: #138 tone the panel's paper so white birds read on e-ink
+  ([`97c392d`](https://github.com/arnegiacomo/fugleramme/commit/97c392d22b60d8f8b697e58b2363a3f781f27401))
+
+### Documentation
+
+- Ask for small artwork PRs and drop the manual preview
+  ([`eeec29b`](https://github.com/arnegiacomo/fugleramme/commit/eeec29bf558be3a93af062516e20c4cbe70dcfaa))
+
+- Refresh the art count and regional coverage
+  ([`3fdc4c4`](https://github.com/arnegiacomo/fugleramme/commit/3fdc4c4ba2726b000fe03e7de08660a434958adc))
+
+- **showcase**: Add a frame in London, shared by @katebevan in #146
+  ([`0cb4f3d`](https://github.com/arnegiacomo/fugleramme/commit/0cb4f3d8ef29be519f8ac39670344aa24816a070))
+
+- **species**: Sort by how common a bird is and link Wikipedia
+  ([`952a33b`](https://github.com/arnegiacomo/fugleramme/commit/952a33badbaaf096419755f96e0a1e8875df5879))
+
+### Features
+
+- Add a numbered key as a way to show the collage's names
+  ([`b5d431a`](https://github.com/arnegiacomo/fugleramme/commit/b5d431a9bdb38e4c4ff390adb7cf6eec57ec5d04))
+
+
 ## v0.25.1 (2026-09-25)
 
 ### Bug Fixes
