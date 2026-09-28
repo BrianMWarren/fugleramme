@@ -9,7 +9,7 @@ construction, so nothing of the bird is touched.
 
 A cut true to a faded scan prints washed out beside the style's plates, so the bird
 is deepened by how pale its darkest ink is: untouched at luma 30 and under, a black
-point of 40, gamma 1.1 and +5% saturation from 70 up. The halo tone maps to itself.
+point of 40, gamma 1.1 and -5% saturation from 70 up. The halo tone maps to itself.
 """
 
 import sys
@@ -42,7 +42,7 @@ paper = np.array(PAPER, dtype=np.float64)
 drawn = (out_a == 255) & (np.abs(rgb - paper).max(axis=2) > 12)
 ink = float(np.percentile(rgb[drawn] @ LUMA, 1)) if drawn.any() else 0.0
 fade = float(np.clip((ink - 30) / 40, 0, 1))
-black, gamma, saturation = 40 * fade, 1 + 0.1 * fade, 1 + 0.05 * fade
+black, gamma, saturation = 40 * fade, 1 + 0.1 * fade, 1 - 0.05 * fade
 rgb = np.where(rgb <= paper, paper * np.clip((rgb - black) / (paper - black), 0, 1) ** gamma, rgb)
 grey = (rgb @ LUMA)[..., None]
 boost = 1 + (saturation - 1) * np.clip((paper @ LUMA - grey) / 40, 0, 1)  # none near paper
