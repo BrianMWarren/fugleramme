@@ -18,6 +18,8 @@ on:
 permissions:
   contents: write
   actions: write  # to dispatch image.yml
+  issues: write  # the "released in" comments
+  pull-requests: write
 
 concurrency:
   group: release
@@ -62,3 +64,19 @@ jobs:
             exit 0
           fi
           gh workflow run image.yml --ref "$tag"
+      # Open issues are skipped
+      - name: Say where each merged PR and closed issue shipped
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BEFORE: ${{ steps.before.outputs.tag }}
+        run: |
+          tag=$(git describe --tags --abbrev=0)
+          if [ -z "$BEFORE" ] || [ "$tag" = "$BEFORE" ]; then
+            exit 0
+          fi
+          url="https://github.com/$GITHUB_REPOSITORY/releases/tag/$tag"
+          for n in $(git log --format=%s "$BEFORE..$tag" | grep -o '#[0-9]\+' | tr -d '#' | sort -un); do
+            [ "$(gh api "repos/$GITHUB_REPOSITORY/issues/$n" --jq .state)" = closed ] || continue
+            gh api "repos/$GITHUB_REPOSITORY/issues/$n/comments" -f body="Released in [$tag]($url)." > /dev/null
+          done
