@@ -35,8 +35,9 @@ paper code.
    - `paper_clean` (default 241), `seal`, `regrow`: see Faults.
    `plate.py cut spec.json` writes `cut.png` and `check.jpg` on a loud ground.
 4. **Finish.** `finish.py cut.png final.png` crops, downscales to 1200 px in floating point
-   and sets the soft edge to the exact halo tone. Hand `final.png` to `tools/add_bird.py`,
-   never `cut.png`.
+   and sets the soft edge to the exact halo tone. A faded scan's bird is deepened to match
+   the shipped plates; it prints how much (`graded 0%` leaves the cut alone). Hand
+   `final.png` to `tools/add_bird.py`, never `cut.png`.
 5. **Add.** `tools/add_bird.py final.png --style classic --key <key> --source <key> --url <plate page> --preview <png>`.
    Take the key from `fugleramme.names.normalize`, not from the BirdNET label. To replace a
    plate, remove the file and add again: the tool gives the first free name. If the manifest

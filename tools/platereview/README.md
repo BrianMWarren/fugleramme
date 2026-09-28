@@ -77,7 +77,7 @@ Or just open `index.html` in the folder. The script is for when a browser refuse
 ```bash
 uv run python plate.py crop <bird>/spec.json          # crop.png and a gridded overview
 uv run python plate.py cut  <bird>/spec.json          # cut.png and check.jpg on a loud ground
-uv run python finish.py <bird>/cut.png final.png      # downscale, set the soft edge to the halo tone
+uv run python finish.py <bird>/cut.png final.png      # downscale, halo-tone the soft edge, deepen a faded scan
 uv run python ../add_bird.py final.png --style classic --key <key> --source <src> --url <plate>
 ```
 
