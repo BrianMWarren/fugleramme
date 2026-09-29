@@ -175,6 +175,10 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeVEgyptian_Goose.jpg"
   },
+  "birds/amaurornis-phoenicurus.webp": {
+    "source": "gould",
+    "url": "https://archive.org/details/BirdsAsiaJohnGoVIIGoul/page/n275"
+  },
   "birds/anarhynchus-alexandrinus-2.webp": {
     "source": "vonwright",
     "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_from_Svenska_F%C3%A5glar_(Swedish_Birds)_by_the_von_Wright_brothers_from_rawpixel%27s_original_edition_of_the_publication_00332.jpg"
@@ -434,6 +438,10 @@
   "birds/ardenna-grisea.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeVCinereous_Shearwater.jpg"
+  },
+  "birds/ardeola-bacchus.webp": {
+    "source": "madarasz",
+    "url": "https://archive.org/details/McGillLibrary-rbsc_zichy-jeno-grof_QL300H671901-17240/page/n528/mode/1up"
   },
   "birds/ardeola-ralloides-2.webp": {
     "source": "gould",
@@ -1303,6 +1311,10 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIIIRook.jpg"
   },
+  "birds/corvus-macrorhynchos.webp": {
+    "source": "siebold",
+    "url": "https://archive.org/details/faunajaponicasi4sieb/page/n264"
+  },
   "birds/coturnix-coturnix-2.webp": {
     "source": "vonwright",
     "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_from_Svenska_F%C3%A5glar_(Swedish_Birds)_by_the_von_Wright_brothers_from_rawpixel%27s_original_edition_of_the_publication_00096.jpg"
@@ -1658,6 +1670,22 @@
   "birds/eudynamys-orientalis.webp": {
     "source": "gould",
     "url": "https://www.biodiversitylibrary.org/page/48703179"
+  },
+  "birds/eudynamys-scolopaceus-2.webp": {
+    "source": "edwards",
+    "url": "https://commons.wikimedia.org/wiki/File:Eudynamys_horonata_-_1700-1880_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ18800283.tif"
+  },
+  "birds/eudynamys-scolopaceus-3.webp": {
+    "source": "edwards",
+    "url": "https://commons.wikimedia.org/wiki/File:Eudynamys_horonata_-_1700-1880_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ18800315.tif"
+  },
+  "birds/eudynamys-scolopaceus-4.webp": {
+    "source": "martinet",
+    "url": "https://commons.wikimedia.org/wiki/File:Eudynamys_mindanensis_-_1700-1880_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ18800317.tif"
+  },
+  "birds/eudynamys-scolopaceus.webp": {
+    "source": "martinet",
+    "url": "https://commons.wikimedia.org/wiki/File:Eudynamys_horonata_-_1700-1880_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZ18800311.tif"
   },
   "birds/falco-biarmicus.webp": {
     "source": "gould",
@@ -2891,6 +2919,10 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:The_birds_of_Europe_(1837)_(14564052228).jpg"
   },
+  "birds/pellorneum-rostratum.webp": {
+    "source": "keulemans",
+    "url": "https://commons.wikimedia.org/wiki/File:PriniaBrachypteryxKeulemans.jpg"
+  },
   "birds/perdix-perdix-2.webp": {
     "source": "vonwright",
     "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_from_Svenska_F%C3%A5glar_(Swedish_Birds)_by_the_von_Wright_brothers_from_rawpixel%27s_original_edition_of_the_publication_00097.jpg"
@@ -3302,6 +3334,10 @@
   "birds/porzana-porzana.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIVSpotted_Crake.jpg"
+  },
+  "birds/prinia-flaviventris.webp": {
+    "source": "keulemans",
+    "url": "https://commons.wikimedia.org/wiki/File:PriniaBrachypteryxKeulemans.jpg"
   },
   "birds/prunella-collaris.webp": {
     "source": "gould",

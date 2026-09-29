@@ -47,7 +47,7 @@ Manifest key: `dresser`.
 *Onze vogels in huis en tuin* (1869-1876), from the Commons category
 [Onze vogels in huis en tuin](https://commons.wikimedia.org/wiki/Category:Onze_vogels_in_huis_en_tuin)
 and the Internet Archive; the *Proceedings of the Zoological Society of London*
-(1871); the *Catalogue of the Birds in the British Museum*, vol. 5 (1881);
+(1871); *The Ibis* (1877); the *Catalogue of the Birds in the British Museum*, vol. 5 (1881);
 *A monograph of the Capitonidæ, or scansorial barbets* by **C. H. T. Marshall** and
 **G. F. L. Marshall** (1871); and *The Birds of Australia* by **Gregory M. Mathews**, vol. 3
 (1913-1914), Smithsonian Libraries scans via the
@@ -133,7 +133,7 @@ CC BY 2.0. Manifest key: `jardine`.
 
 **Collins** - bird watercolours by **Charles Collins** (died 1744) in the **Taylor White** collection of the **McGill University Library**, from [McGill's digital archives](https://archivalcollections.library.mcgill.ca/). Public domain. Manifest key: `collins`.
 
-**Edwards** - plates by **George Edwards** (1694-1773) from his *A Natural History of Uncommon Birds* (1743-1751), Smithsonian Libraries scans via the [Internet Archive](https://archive.org/details/naturalhistoryof11743edwa); and plates after him, engraved by **Johann Sebastian Leitner** for a German edition of his work, with scans from the **Iconographia Zoologica** collection of the **University of Amsterdam** Special Collections (Artis Library), via the Commons category [Iconographia Zoologica](https://commons.wikimedia.org/wiki/Category:Iconographia_Zoologica). Public domain. Manifest key: `edwards`.
+**Edwards** - plates by **George Edwards** (1694-1773) from his *A Natural History of Uncommon Birds* (1743-1751), Smithsonian Libraries scans via the [Internet Archive](https://archive.org/details/naturalhistoryof11743edwa); and plates after him, engraved by **Johann Michael Seligmann** and **Johann Sebastian Leitner** for a German edition of his work, with scans from the **Iconographia Zoologica** collection of the **University of Amsterdam** Special Collections (Artis Library), via the Commons category [Iconographia Zoologica](https://commons.wikimedia.org/wiki/Category:Iconographia_Zoologica). Public domain. Manifest key: `edwards`.
 
 **Knip** - *Les Pigeons* by **Pauline Knip** (1781-1851) and **Coenraad Jacob Temminck** (1808-1811), Ernst Mayr Library, Museum of Comparative Zoology, Harvard University scans via the [Internet Archive](https://archive.org/details/pigeons00temm). Public domain. Manifest key: `knip`.
 
@@ -144,3 +144,7 @@ CC BY 2.0. Manifest key: `jardine`.
 **Arnoul** - plates drawn and lithographed by **Arnoul** for *Les oiseaux de la Chine* by **Armand David** and **Émile Oustalet** (1877). Scans of the Bibliothèque de l'Arsenal copy from [Gallica](https://gallica.bnf.fr/), Bibliothèque nationale de France. Public domain. Manifest key: `arnoul`.
 
 **Temminck** - *Nouveau recueil de planches coloriées d'oiseaux* by **Coenraad Jacob Temminck** and **Meiffren Laugier de Chartrouse** (1820-1839), plates drawn by **Nicolas Huet** and **Jean-Gabriel Prêtre**. Smithsonian Libraries scans via the [Internet Archive](https://archive.org/details/Nouveaurecueild3Temm), also in the Commons category [Nouveau recueil de planches coloriées d'oiseaux](https://commons.wikimedia.org/wiki/Category:Nouveau_recueil_de_planches_colori%C3%A9es_d%27oiseaux). Public domain (PD-scan / PD-old-100). Manifest key: `temminck`.
+
+**Martinet** - *Planches enluminées d'histoire naturelle* (1765-1783) by **Buffon** and **Daubenton**, plates drawn and engraved by **François-Nicolas Martinet**. Scans from the **Iconographia Zoologica** collection of the **University of Amsterdam** Special Collections (Artis Library), via the Commons category [Iconographia Zoologica](https://commons.wikimedia.org/wiki/Category:Iconographia_Zoologica). Public domain. Manifest key: `martinet`.
+
+**Madarász** - plates by **Gyula Madarász** for the birds of *Zoologische Ergebnisse der dritten asiatischen Forschungsreise des Grafen Eugen Zichy* (1901), colour lithographs by **Werner & Winter**. McGill University Library scans via the [Internet Archive](https://archive.org/details/McGillLibrary-rbsc_zichy-jeno-grof_QL300H671901-17240). Public domain. Manifest key: `madarasz`.

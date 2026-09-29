@@ -527,6 +527,18 @@
    939
   ]
  },
+ "birds/amaurornis-phoenicurus.webp": {
+  "box": [
+   0.215,
+   0.06,
+   0.85,
+   0.794
+  ],
+  "cut": [
+   1200,
+   837
+  ]
+ },
  "birds/anarhynchus-alexandrinus-2.webp": {
   "box": [
    0.01915459659830965,
@@ -1305,6 +1317,18 @@
   "cut": [
    1200,
    898
+  ]
+ },
+ "birds/ardeola-bacchus.webp": {
+  "box": [
+   0.01,
+   0.015,
+   0.97,
+   0.795
+  ],
+  "cut": [
+   754,
+   1200
   ]
  },
  "birds/ardeola-ralloides-2.webp": {
@@ -3911,6 +3935,18 @@
    1200
   ]
  },
+ "birds/corvus-macrorhynchos.webp": {
+  "box": [
+   0.017,
+   0.013,
+   0.957,
+   0.858
+  ],
+  "cut": [
+   1160,
+   1200
+  ]
+ },
  "birds/coturnix-coturnix-2.webp": {
   "box": [
    0.019797110557556154,
@@ -4976,6 +5012,54 @@
   ],
   "cut": [
    1019,
+   1200
+  ]
+ },
+ "birds/eudynamys-scolopaceus-2.webp": {
+  "box": [
+   0.008,
+   0.02,
+   0.99,
+   0.7
+  ],
+  "cut": [
+   1200,
+   1053
+  ]
+ },
+ "birds/eudynamys-scolopaceus-3.webp": {
+  "box": [
+   0.02,
+   0.01,
+   0.9,
+   0.985
+  ],
+  "cut": [
+   955,
+   1200
+  ]
+ },
+ "birds/eudynamys-scolopaceus-4.webp": {
+  "box": [
+   0.02,
+   0.007,
+   0.985,
+   0.995
+  ],
+  "cut": [
+   975,
+   1200
+  ]
+ },
+ "birds/eudynamys-scolopaceus.webp": {
+  "box": [
+   0.017,
+   0.022,
+   0.986,
+   0.96
+  ],
+  "cut": [
+   941,
    1200
   ]
  },
@@ -8675,6 +8759,18 @@
    764
   ]
  },
+ "birds/pellorneum-rostratum.webp": {
+  "box": [
+   0.013,
+   0.027,
+   0.975,
+   0.925
+  ],
+  "cut": [
+   1200,
+   1114
+  ]
+ },
  "birds/perdix-perdix-2.webp": {
   "box": [
    0.026170182228088378,
@@ -9909,6 +10005,18 @@
   "cut": [
    1200,
    1048
+  ]
+ },
+ "birds/prinia-flaviventris.webp": {
+  "box": [
+   0.012,
+   0.01,
+   0.975,
+   0.985
+  ],
+  "cut": [
+   1186,
+   1200
   ]
  },
  "birds/prunella-collaris.webp": {
