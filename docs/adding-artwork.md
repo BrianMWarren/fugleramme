@@ -128,6 +128,13 @@ uv run python tools/preview_plates.py /tmp/preview assets/artwork/classic/birds/
 
 Creates `web.png` and `panel.png` in the target folder. (Also automatically generated on PRs)
 
+## Open a PR
+
+Happy with the bird and want to share it with others? Open a PR. See [Contributing](https://github.com/arnegiacomo/fugleramme/blob/main/CONTRIBUTING.md#artwork) for what to include. (Never opened a PR before? [First Contributions](https://github.com/firstcontributions/first-contributions) walks you through it)
+
+> [!WARNING]
+> Working on your frame's own Pi? That's fine, but open the PR before the next update - updating resets `manifest.json` and `geometry.json`.
+
 ## Tips
 
 - Hand-drawn birds on paper cut out best. Painted scenery doesn't, because the background bleeds into the feathers and there's no clean edge to follow.

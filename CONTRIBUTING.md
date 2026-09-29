@@ -8,6 +8,8 @@ This is a one-person project, but issues and PRs are very welcome - fixes, docs 
 | Something is broken | **A [bug report](https://github.com/arnegiacomo/fugleramme/issues/new/choose)** |
 | An idea, a feature request, a setup question, showcase or anything else | **[Discussions](https://github.com/arnegiacomo/fugleramme/discussions)** |
 
+Never opened a PR before? [First Contributions](https://github.com/firstcontributions/first-contributions) walks through it step by step.
+
 The one thing worth asking about first is a big feature or change - start it in Discussions so you don't spend a weekend on something that's already half-designed or deliberately out of scope.
 
 ## Running it without a Pi
