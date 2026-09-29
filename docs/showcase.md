@@ -72,6 +72,12 @@ Frames people have running around the world. Click one to open it.
       <figcaption>London, UK <small>feathers.daphnetowers.com</small></figcaption>
     </a>
   </figure>
+  <figure>
+    <a href="https://fugleramme.flerp.xyz/">
+      <img src="https://fugleramme.flerp.xyz/collage.png" alt="The frame in Mississippi, USA" loading="lazy" referrerpolicy="no-referrer">
+      <figcaption>Mississippi, USA <small>fugleramme.flerp.xyz</small></figcaption>
+    </a>
+  </figure>
 </div>
 
 Running one yourself and want to share with others? Post the link in
