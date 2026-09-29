@@ -83,7 +83,14 @@ def test_a_plate_with_a_citation_links_to_it(tmp_path):
     name_of = namer("sci", "", tmp_path)
     linked = admin.species_html([("Pica pica", "gould", "https://example.org/a")], name_of)
     assert '<a href="https://example.org/a" target="_blank" rel="noopener">Gould</a>' in linked
-    assert "<a " not in admin.species_html([("Pica pica", "gould", "")], name_of)
+    assert "href" not in admin.species_html([("Pica pica", "gould", "")], name_of)
+
+
+def test_every_species_name_carries_its_scientific_name_for_the_birdnet_link(tmp_path):
+    name_of = namer("sci", "", tmp_path)
+    html = admin.species_html([("Pica pica", "gould", ""), ("Corvus cornix", None, "")], name_of)
+    assert html.count('data-species="') == 2
+    assert 'data-species="Corvus cornix"' in html
 
 
 def test_the_update_row_offers_the_install_only_once_a_release_is_known():

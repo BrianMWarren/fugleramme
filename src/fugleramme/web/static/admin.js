@@ -3,9 +3,18 @@ const cfg = JSON.parse(document.getElementById("config").textContent);
 
 // A loopback detector is only loopback from the Pi, so a remote browser follows
 // this page's own host on its port; anything else is linked as configured.
-document.getElementById("birdnet").href = cfg.birdnetPort
-  ? location.protocol + "//" + location.hostname + ":" + cfg.birdnetPort + "/"
+const birdnet = cfg.birdnetPort
+  ? location.protocol + "//" + location.hostname + ":" + cfg.birdnetPort
   : cfg.birdnetUrl;
+document.getElementById("birdnet").href = birdnet + "/";
+
+// Not queryType=species: BirdNET-Go shows only today's for that.
+function linkSpecies() {
+  for (const a of document.querySelectorAll("#species a[data-species]")) {
+    a.href = birdnet + "/ui/detections?search=" + encodeURIComponent(a.dataset.species);
+  }
+}
+linkSpecies();
 
 // Every button posts and redirects, so a save reloads: the tab and the scroll
 // position have to be carried across by hand.
@@ -240,6 +249,7 @@ async function loadSpecies(query, id) {
     if (id !== seq) return;
     document.getElementById("count").textContent = body.count;
     document.getElementById("species").innerHTML = body.html;
+    linkSpecies();
   } catch (e) {}  // the preview alone is worth showing
 }
 

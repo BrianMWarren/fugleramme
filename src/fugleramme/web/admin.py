@@ -188,9 +188,11 @@ def _stamp(dt: datetime) -> str:
     return f'<time title="{_ago(dt)}">{local.strftime(fmt)}</time>'
 
 
-def _species_li(name: str, source: str | None, url: str) -> str:
+def _species_li(scientific: str, label: str, source: str | None, url: str) -> str:
     # Marks species counted in the window but omitted from the collage (#9); else
     # names the plate the artwork was cut from, per the style's manifest.
+    # admin.js adds the href: only the browser knows BirdNET-Go's address.
+    name = f'<a data-species="{html.escape(scientific)}" target="_blank" rel="noopener">{label}</a>'
     if source is None:
         return f'<li class="noart">{name} <small>no art</small></li>'
     plate = _display_name(source)
@@ -201,7 +203,9 @@ def _species_li(name: str, source: str | None, url: str) -> str:
 
 def species_html(species: list[tuple[str, str | None, str]], name_of: Namer) -> str:
     return (
-        "".join(_species_li(name_of.inline(name), source, url) for name, source, url in species)
+        "".join(
+            _species_li(name, name_of.inline(name), source, url) for name, source, url in species
+        )
         or '<li class="empty">none yet</li>'
     )
 
