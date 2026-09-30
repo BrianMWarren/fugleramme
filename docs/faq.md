@@ -32,6 +32,10 @@ The panel is most of it. Here are some rough ranges (prices fluctuate a lot at t
 
 [Hardware](hardware.md#full-build-with-birdnet-go) has what I actually use, recommend and why.
 
+## Can I buy a kit?
+
+Not from me - you source the parts yourself, and [Hardware](hardware.md) lists them. Teddy Warner sells [kits](https://theodore.net/store/) for [AvianVisitors](https://theodore.net/projects/AvianVisitors/), which uses the same panel. They're made for his frame, so getting fugleramme running on one might require some tinkering.
+
 ## Will it work where I live?
 
 BirdNET works basically everywhere. The artwork is the limiting factor. Coverage is best across Europe and northern Asia, good in North America, and thinner in the tropics and the southern hemisphere thus far - however, it's quickly growing! Pick your location in [Species coverage](species.md) to see which of your local birds are supported.

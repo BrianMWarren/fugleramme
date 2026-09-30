@@ -33,7 +33,7 @@ Hardware, install and operations docs: **[arnegiacomo.dev/fugleramme](https://ar
 ## Inspiration
 
 The look came from a [WWF Verdens naturfond poster by Axel Thorenfeldt](https://www.axelthorenfeldt.com/news/wwf-verdens-naturfonds-fugleskole)
-hanging on my wall, the live-frame idea from [AvianVisitors](https://theodore.net/projects/AvianVisitors/) that I saw on Instagram,
+hanging on my wall, the live-frame idea from Teddy Warner's [AvianVisitors](https://theodore.net/projects/AvianVisitors/) that I saw on Instagram,
 and the detection from [BirdNET-Go](https://github.com/tphakala/birdnet-go) - I wanted a version of that poster showing the actual birds in my garden.
 
 ## How it works
@@ -142,7 +142,7 @@ See **[Contributing](CONTRIBUTING.md)** for more info.
 
 ## Similar projects
 
-- [AvianVisitors](https://github.com/Twarner491/AvianVisitors) - BirdNET-Pi, AI-generated illustrations and photo cutouts
+- [AvianVisitors](https://github.com/Twarner491/AvianVisitors) - BirdNET-Pi, AI-generated illustrations and photo cutouts, also sold as [kits](https://theodore.net/store/)
 - [inky-bird-frame](https://github.com/veteranbv/inky-bird-frame) - BirdNET, field-journal illustrations on an Inky panel
 - [HABirdDashboard](https://github.com/adamoberley/HABirdDashboard) - BirdNET-Go, a collage card for Home Assistant
 - [belkins-birdnet](https://github.com/Belkins/belkins-birdnet) - BirdNET-Pi, AI-generated kachō-e style illustrations
