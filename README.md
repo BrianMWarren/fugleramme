@@ -137,6 +137,7 @@ Want to help?
   [FAQ](https://arnegiacomo.dev/fugleramme/faq/) first, then
   [Discussions](https://github.com/arnegiacomo/fugleramme/discussions)
 - **A fix, a doc change, or a bird you have cut** - open a PR, no issue needed
+- **Don't know where to start** - the [good first issues](https://github.com/arnegiacomo/fugleramme/labels/good%20first%20issue)
 
 See **[Contributing](CONTRIBUTING.md)** for more info.
 
