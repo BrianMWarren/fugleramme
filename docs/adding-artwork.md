@@ -14,6 +14,8 @@ Choose public-domain or openly licensed artwork whose terms are compatible with
 the style. Keep the artist or work name, licence, and link to the original image
 for its manifest and `ATTRIBUTION.md` entries.
 
+Grab the highest resolution version of the scan you can find. Once cut out, the bird should be at least 600 px tall or wide, otherwise it'll look ugly when the frame shows it in a single-bird mode.
+
 ## Prepare the image
 
 Krita is my preferred manual tool of choice here (it's free and easy to use)
