@@ -2,12 +2,8 @@
 
 ## Find what is missing
 
-See [Species coverage](species.md). The admin page marks a bird the current style cannot draw with "no art". The
-frame logs the same list whenever it re-renders:
-
-```bash
-journalctl -u fugleramme-frame | grep "No artwork"
-```
+The admin page's Detector tab counts every bird your station has heard without art, and opens a Missing bird issue
+with the list pre-filled or copies it. If you like logs: `journalctl -u fugleramme-frame | grep "No artwork"` lists the ones it skipped recently.
 
 ## Source an image
 
