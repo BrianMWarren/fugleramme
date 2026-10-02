@@ -86,8 +86,9 @@ Applies to docs, commit messages, code comments, and the kiosk and admin UI alik
 - Scope is optional - include it when it meaningfully narrows the change, omit otherwise
 - Reference the issue as `#1`, not `#gh-1`: `feat: #1 add render`, `refactor(api): #56 fold reclassified rows`. If no issue is apparent, ask; omit the ref if there is none
 - Subject line only, no body, unless a body is asked for
-- Commit types drive releases: python-semantic-release tags every push to `main` carrying a `feat` (minor) or `fix`/`perf` (patch), bumps `pyproject.toml` + `__init__.py`, and writes `CHANGELOG.md`. A `fix: #N` closes issue N on push, so check that is intended before pushing one. `fix` and `feat` are a decision to ship a version, not a description of the change: a bug in the docs build, tooling or CI is `docs`/`chore`, and a fix not worth updating every Pi for waits under `chore` and rides the next release
-- **Artwork is `chore(assets)`, never `fix`** - a plate is not a new version, and it rides the next release. `release.yml`'s `workflow_dispatch` forces a bump when a queue of art is worth shipping alone
+- Releases are cut by hand, never by a push: `release.yml`'s `workflow_dispatch` runs python-semantic-release on `main` once its ci is green. It reads the commits since the last tag for the bump - `feat` minor, `fix`/`perf` patch, anything else none - bumps `pyproject.toml` + `__init__.py`, and writes `CHANGELOG.md`. A release reaches every auto-updating Pi, so cutting one is the decision to ship, and its `force` input bumps when only `chore` is queued. Never dispatch it unless asked
+- Commit types describe the change, they do not ship it. A bug in the docs build, tooling or CI is `docs`/`chore`, since `fix` puts it in the changelog. A `fix: #N` closes issue N on push, before the fix reaches any Pi, so check that is intended before pushing one
+- **Artwork is `chore(assets)`, never `fix`** - a plate is not a change to the software, and it rides the next release
 
 ## Workflow
 
