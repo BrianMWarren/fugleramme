@@ -1035,6 +1035,14 @@
     "source": "vonwright",
     "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_from_Svenska_F%C3%A5glar_(Swedish_Birds)_by_the_von_Wright_brothers_from_rawpixel%27s_original_edition_of_the_publication_00226.jpg"
   },
+  "birds/chordeiles-minor-2.webp": {
+    "source": "audubon",
+    "url": "https://media.audubon.org/boa_illustration/plate-147-night-hawk.jpg"
+  },
+  "birds/chordeiles-minor.webp": {
+    "source": "audubon",
+    "url": "https://media.audubon.org/boa_illustration/plate-147-night-hawk.jpg"
+  },
   "birds/chroicocephalus-ridibundus-2.webp": {
     "source": "vonwright",
     "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_from_Svenska_F%C3%A5glar_(Swedish_Birds)_by_the_von_Wright_brothers_from_rawpixel%27s_original_edition_of_the_publication_00047.jpg"
@@ -4350,6 +4358,10 @@
   "birds/zenaida-macroura.webp": {
     "source": "audubon",
     "url": "https://commons.wikimedia.org/wiki/File:Zenaida_macrouraAWP17AA.jpg"
+  },
+  "birds/zonotrichia-atricapilla.webp": {
+    "source": "audubon",
+    "url": "https://commons.wikimedia.org/wiki/File:The_birds_of_America_(Pl._193)_(8571229237).jpg"
   },
   "birds/zonotrichia-leucophrys.webp": {
     "source": "audubon",
