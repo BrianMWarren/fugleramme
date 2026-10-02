@@ -3687,6 +3687,10 @@
     "source": "audubon",
     "url": "https://www.audubon.org/art/birds-of-america/yellow-crown-warbler"
   },
+  "birds/setophaga-magnolia.webp": {
+    "source": "fuertes",
+    "url": "https://commons.wikimedia.org/wiki/Category:Birds_of_New_York_(1912)#/media/File:Annual_report_(1912)_(17808820723).jpg"
+  },
   "birds/setophaga-petechia.webp": {
     "source": "audubon",
     "url": "https://www.audubon.org/art/birds-of-america/blue-eyed-yellow-warbler"
@@ -3694,6 +3698,14 @@
   "birds/setophaga-pinus.webp": {
     "source": "fuertes",
     "url": "https://commons.wikimedia.org/wiki/Category:Birds_of_New_York_(1912)#/media/File:Annual_report_(1912)_(17806828874).jpg"
+  },
+  "birds/setophaga-ruticilla.webp": {
+    "source": "fuertes",
+    "url": "https://commons.wikimedia.org/wiki/Category:Birds_of_New_York_(1912)#/media/File:Annual_report_(1912)_(17808820723).jpg"
+  },
+  "birds/setophaga-virens.webp": {
+    "source": "audubon",
+    "url": "https://commons.wikimedia.org/wiki/File:399_I._Black-throated_green_Warbler_-_2._Blackburnian_-_3._Mourning_Warbler_(cropped).jpg#/media/File:399_I._Black-throated_green_Warbler_-_2._Blackburnian_-_3._Mourning_Warbler_(cropped).jpg"
   },
   "birds/sialia-currucoides-2.webp": {
     "source": "audubon",
