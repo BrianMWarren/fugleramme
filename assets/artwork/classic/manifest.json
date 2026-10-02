@@ -147,6 +147,10 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIVBarbary_Partridge_Greek_Partridge.jpg"
   },
+  "birds/alectoris-chukar.webp": {
+    "source": "gould",
+    "url": "https://archive.org/details/centurybirdsfro00Goul/page/n288/mode/1up"
+  },
   "birds/alectoris-graeca-2.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeIVBarbary_Partridge_Greek_Partridge.jpg"
@@ -878,6 +882,18 @@
   "birds/callipepla-californica.webp": {
     "source": "audubon",
     "url": "https://www.audubon.org/art/birds-of-america/california-partridge"
+  },
+  "birds/calonectris-diomedea-2.webp": {
+    "source": "gould",
+    "url": "https://commons.wikimedia.org/wiki/File:The_birds_of_Europe_(1837)_(14750436402).jpg"
+  },
+  "birds/calonectris-diomedea-3.webp": {
+    "source": "bree",
+    "url": "https://commons.wikimedia.org/wiki/File:A_history_of_the_birds_of_Europe,_not_observed_in_the_British_Isles_(1862)_(14563734178).jpg"
+  },
+  "birds/calonectris-diomedea.webp": {
+    "source": "dresser",
+    "url": "https://archive.org/details/historyofbirdsof18dres/page/n672/mode/1up"
   },
   "birds/calypte-anna-2.webp": {
     "source": "lesson",
@@ -1655,6 +1671,10 @@
     "source": "gould",
     "url": "https://archive.org/details/birdsEuropeIIIGoul/page/n101/mode/1up"
   },
+  "birds/emberiza-melanocephala-4.webp": {
+    "source": "dresser",
+    "url": "https://archive.org/details/historyofbirdsof14dres/page/n215/mode/1up"
+  },
   "birds/emberiza-melanocephala.webp": {
     "source": "gould",
     "url": "https://archive.org/details/birdsgreatbrita3goul/page/n117/mode/1up"
@@ -1662,6 +1682,10 @@
   "birds/emberiza-pusilla-2.webp": {
     "source": "gould",
     "url": "https://archive.org/details/birdsgreatbrita3goul/page/n105/mode/1up"
+  },
+  "birds/emberiza-pusilla-3.webp": {
+    "source": "gould",
+    "url": "https://commons.wikimedia.org/wiki/File:BirdsAsiaJohnGoVGoul_0036.jpg"
   },
   "birds/emberiza-pusilla.webp": {
     "source": "dresser",
@@ -2719,6 +2743,10 @@
     "source": "naumann",
     "url": "https://commons.wikimedia.org/wiki/File:Turdus_saxatilis_-_1840_-_Print_-_Iconographia_Zoologica_-_Special_Collections_University_of_Amsterdam_-_UBA01_IZA1000571.tif"
   },
+  "birds/monticola-saxatilis-3.webp": {
+    "source": "dresser",
+    "url": "https://archive.org/details/historyofbirdsof12dres/page/n176/mode/1up"
+  },
   "birds/monticola-saxatilis.webp": {
     "source": "gould",
     "url": "https://archive.org/details/birdsEuropeIIGoul/page/n156/mode/1up"
@@ -2999,6 +3027,10 @@
     "source": "dresser",
     "url": "https://commons.wikimedia.org/wiki/File:Passer_hispaniolensis_Dresser.jpg"
   },
+  "birds/passer-italiae-2.webp": {
+    "source": "dresser",
+    "url": "https://archive.org/details/historyofbirdsof13dres/page/n762/mode/1up"
+  },
   "birds/passer-italiae.webp": {
     "source": "gould",
     "url": "https://archive.org/details/birdsEuropeIIIGoul/page/n154/mode/1up"
@@ -3074,6 +3106,10 @@
   "birds/petroica-rosea.webp": {
     "source": "gould",
     "url": "https://www.biodiversitylibrary.org/page/48285795"
+  },
+  "birds/petronia-petronia-2.webp": {
+    "source": "dresser",
+    "url": "https://archive.org/details/historyofbirdsof13dres/page/n792/mode/1up"
   },
   "birds/petronia-petronia.webp": {
     "source": "gould",

@@ -32,7 +32,8 @@ Sharpe** (1850-1883), from the Commons category
 public domain (PD-Art, PD-old-100); and *The Birds of Australia* (1840-1848),
 illustrated by **John and Elizabeth Gould** and **Henry Constantine Richter**,
 scans from Smithsonian Libraries via [BHL](https://www.biodiversitylibrary.org/), [University of Kansas](https://digital.lib.ku.edu/ku-gould), and [Project Gutenberg / Internet Archive](https://www.gutenberg.org/ebooks/62524),
-public domain; and *The Birds of Great Britain* (1862-1873), with **Henry Constantine Richter**,
+public domain; *A Century of Birds from the Himalaya Mountains* (1831-1832), drawn on stone
+by **Elizabeth Gould**, via the [Internet Archive](https://archive.org/details/centurybirdsfro00Goul); and *The Birds of Great Britain* (1862-1873), with **Henry Constantine Richter**,
 scans via the [Internet Archive](https://archive.org/details/birdsgreatbrita3goul),
 public domain. Manifest key: `gould`.
 
