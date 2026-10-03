@@ -6251,6 +6251,18 @@
    768
   ]
  },
+ "birds/gymnogyps-californianus.webp": {
+  "box": [
+   0.223,
+   0.0,
+   0.8571,
+   0.849
+  ],
+  "cut": [
+   1085,
+   1199
+  ]
+ },
  "birds/gymnorhina-tibicen.webp": {
   "box": [
    0.053143,
@@ -8519,6 +8531,18 @@
    787
   ]
  },
+ "birds/myiarchus-crinitus.webp": {
+  "box": [
+   0.0,
+   0.0,
+   1.0,
+   0.6
+  ],
+  "cut": [
+   866,
+   1200
+  ]
+ },
  "birds/myiopsitta-monachus.webp": {
   "box": [
    0.059678169253482405,
@@ -9923,6 +9947,18 @@
    1200
   ]
  },
+ "birds/pipilo-erythrophthalmus.webp": {
+  "box": [
+   0.0,
+   0.0,
+   1.0,
+   0.77
+  ],
+  "cut": [
+   811,
+   1024
+  ]
+ },
  "birds/pipilo-maculatus.webp": {
   "box": [
    0.0,
@@ -11241,6 +11277,18 @@
   "cut": [
    1200,
    1062
+  ]
+ },
+ "birds/setophaga-coronata-3.webp": {
+  "box": [
+   0.0267,
+   0.0771,
+   0.9773,
+   0.8782
+  ],
+  "cut": [
+   1019,
+   1022
   ]
  },
  "birds/setophaga-coronata.webp": {
