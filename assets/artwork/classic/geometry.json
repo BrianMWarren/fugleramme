@@ -12527,6 +12527,18 @@
    1200
   ]
  },
+ "birds/trichoglossus-concinnus.webp": {
+  "box": [
+   0.2238196906488176,
+   0.2028227896134873,
+   0.9888241458724017,
+   0.6103893749661192
+  ],
+  "cut": [
+   852,
+   1200
+  ]
+ },
  "birds/trichoglossus-moluccanus.webp": {
   "box": [
    0.120041,
