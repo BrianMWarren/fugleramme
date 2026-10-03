@@ -395,6 +395,18 @@
    839
   ]
  },
+ "birds/alaudala-rufescens.webp": {
+  "box": [
+   0.004,
+   0.04,
+   0.605,
+   0.86
+  ],
+  "cut": [
+   1200,
+   630
+  ]
+ },
  "birds/alca-torda.webp": {
   "box": [
    0.04628265187853858,
@@ -935,6 +947,18 @@
    787
   ]
  },
+ "birds/anser-serrirostris.webp": {
+  "box": [
+   0.025,
+   0.012,
+   0.99,
+   0.7
+  ],
+  "cut": [
+   933,
+   1200
+  ]
+ },
  "birds/anthochaera-carunculata.webp": {
   "box": [
    0.011718,
@@ -1184,6 +1208,30 @@
   ],
   "cut": [
    968,
+   1200
+  ]
+ },
+ "birds/aquila-adalberti-2.webp": {
+  "box": [
+   0.022,
+   0.43,
+   0.501,
+   0.844
+  ],
+  "cut": [
+   1040,
+   1200
+  ]
+ },
+ "birds/aquila-adalberti.webp": {
+  "box": [
+   0.02,
+   0.015,
+   0.82,
+   0.96
+  ],
+  "cut": [
+   1155,
    1200
   ]
  },
@@ -3203,6 +3251,18 @@
    1200
   ]
  },
+ "birds/chroicocephalus-genei.webp": {
+  "box": [
+   0.045,
+   0.02,
+   0.97,
+   0.9
+  ],
+  "cut": [
+   1200,
+   726
+  ]
+ },
  "birds/chroicocephalus-ridibundus-2.webp": {
   "box": [
    0.02567878007888794,
@@ -4451,16 +4511,40 @@
    755
   ]
  },
- "birds/cyanopica-cyanus.webp": {
+ "birds/cyanopica-cooki-2.webp": {
   "box": [
-   0.02554793372986805,
-   0.03342598868261365,
-   0.9738477095346602,
-   0.9230113749422815
+   0.012,
+   0.02,
+   0.96,
+   0.965
   ],
   "cut": [
-   1178,
-   877
+   1200,
+   1111
+  ]
+ },
+ "birds/cyanopica-cooki-3.webp": {
+  "box": [
+   0.015,
+   0.02,
+   0.985,
+   0.94
+  ],
+  "cut": [
+   1200,
+   883
+  ]
+ },
+ "birds/cyanopica-cooki.webp": {
+  "box": [
+   0.015,
+   0.02,
+   0.99,
+   0.76
+  ],
+  "cut": [
+   1200,
+   1084
   ]
  },
  "birds/cygnus-columbianus.webp": {
@@ -6021,6 +6105,30 @@
   "cut": [
    1016,
    1200
+  ]
+ },
+ "birds/gavia-adamsii-2.webp": {
+  "box": [
+   0.13,
+   0.18,
+   0.97,
+   0.75
+  ],
+  "cut": [
+   1200,
+   685
+  ]
+ },
+ "birds/gavia-adamsii.webp": {
+  "box": [
+   0.019,
+   0.035,
+   0.905,
+   0.76
+  ],
+  "cut": [
+   1200,
+   608
   ]
  },
  "birds/gavia-arctica-2.webp": {

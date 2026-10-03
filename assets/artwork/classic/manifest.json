@@ -131,6 +131,10 @@
     "source": "vonwright",
     "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_from_Svenska_F%C3%A5glar_(Swedish_Birds)_by_the_von_Wright_brothers_from_rawpixel%27s_original_edition_of_the_publication_00248.jpg"
   },
+  "birds/alaudala-rufescens.webp": {
+    "source": "dresser",
+    "url": "https://archive.org/details/historyofbirdsof14dres/page/n473/mode/1up"
+  },
   "birds/alca-torda.webp": {
     "source": "vonwright",
     "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_from_Svenska_F%C3%A5glar_(Swedish_Birds)_by_the_von_Wright_brothers_from_rawpixel%27s_original_edition_of_the_publication_00042.jpg"
@@ -311,6 +315,10 @@
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:GouldBirdsEuropeVBean_Goose.jpg"
   },
+  "birds/anser-serrirostris.webp": {
+    "source": "naumann",
+    "url": "https://www.biodiversitylibrary.org/page/33755591"
+  },
   "birds/anthochaera-carunculata.webp": {
     "source": "gould",
     "url": "https://digital.lib.ku.edu/ku-gould/14110"
@@ -394,6 +402,14 @@
   "birds/apus-pallidus.webp": {
     "source": "dresser",
     "url": "https://www.biodiversitylibrary.org/page/37199008"
+  },
+  "birds/aquila-adalberti-2.webp": {
+    "source": "dresser",
+    "url": "https://archive.org/details/historyofbirdsof15dres/page/n672/mode/1up"
+  },
+  "birds/aquila-adalberti.webp": {
+    "source": "dresser",
+    "url": "https://archive.org/details/historyofbirdsof15dres/page/n670/mode/1up"
   },
   "birds/aquila-chrysaetos-2.webp": {
     "source": "vonwright",
@@ -1067,6 +1083,10 @@
     "source": "audubon",
     "url": "https://media.audubon.org/boa_illustration/plate-147-night-hawk.jpg"
   },
+  "birds/chroicocephalus-genei.webp": {
+    "source": "bonaparte",
+    "url": "https://archive.org/details/Iconografiadellt1c1Bona/page/n367"
+  },
   "birds/chroicocephalus-ridibundus-2.webp": {
     "source": "vonwright",
     "url": "https://commons.wikimedia.org/wiki/File:Bird_illustration_from_Svenska_F%C3%A5glar_(Swedish_Birds)_by_the_von_Wright_brothers_from_rawpixel%27s_original_edition_of_the_publication_00047.jpg"
@@ -1483,9 +1503,17 @@
     "source": "audubon",
     "url": "https://media.audubon.org/boa_illustration/plate-102-blue-jay.jpg"
   },
-  "birds/cyanopica-cyanus.webp": {
+  "birds/cyanopica-cooki-2.webp": {
+    "source": "dresser",
+    "url": "https://archive.org/details/historyofbirdsof14dres/page/n674/mode/1up"
+  },
+  "birds/cyanopica-cooki-3.webp": {
     "source": "bree",
-    "url": "https://commons.wikimedia.org/wiki/File:A_history_of_the_birds_of_Europe_(Plate_2)_(8157820166).jpg"
+    "url": "https://archive.org/details/historyofbirdsof21875bree/page/n19/mode/1up"
+  },
+  "birds/cyanopica-cooki.webp": {
+    "source": "gould",
+    "url": "https://archive.org/details/birdsEuropeIIIGoul/page/n282/mode/1up"
   },
   "birds/cygnus-columbianus.webp": {
     "source": "gould",
@@ -2006,6 +2034,14 @@
   "birds/garrulus-glandarius.webp": {
     "source": "gould",
     "url": "https://commons.wikimedia.org/wiki/File:The_birds_of_Europe_(1837)_(14751675612).jpg"
+  },
+  "birds/gavia-adamsii-2.webp": {
+    "source": "dresser",
+    "url": "https://www.biodiversitylibrary.org/page/38625673"
+  },
+  "birds/gavia-adamsii.webp": {
+    "source": "ibis",
+    "url": "https://archive.org/details/ibis661894188994brit/page/n704"
   },
   "birds/gavia-arctica-2.webp": {
     "source": "vonwright",

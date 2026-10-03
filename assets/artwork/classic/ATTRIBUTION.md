@@ -174,3 +174,7 @@ CC BY 2.0. Manifest key: `jardine`.
 **Prang** - *Singing Birds. Family - Finches.*, a colour lithograph published by **Louis Prang** (1874), from the Library of Congress's Popular Graphic Arts collection via the Commons category [Popular Graphic Arts](https://commons.wikimedia.org/wiki/Category:Popular_Graphic_Arts). Public domain (PD-1923). Manifest key: `prang`.
 
 **Ridgway** - plates after watercolours by **Robert Ridgway** in *Our Native Birds of Song and Beauty* by **Henry Nehrling**, Volume I (Milwaukee: George Brumder, 1893), whose colour plates are after paintings by Ridgway, **A. Goering** and **Gustav Muetzel**. Cornell University Library scan via the [Internet Archive](https://archive.org/details/cu31924084820350). Public domain (published in the US before 1929). Manifest key: `ridgway`.
+
+**Bonaparte** - *Iconografia della fauna italica per le quattro classi degli animali vertebrati* by **Charles Lucien Bonaparte** (1832-1841), hand-coloured lithographs, via the [Internet Archive](https://archive.org/details/Iconografiadellt1c1Bona). Public domain. Manifest key: `bonaparte`.
+
+**Ibis** - a plate from *The Ibis* (1894) by **Joseph Smit**, printed by **Mintern Bros.**, via the [Internet Archive](https://archive.org/details/ibis661894188994brit). Public domain (Smit died 1929). Manifest key: `ibis`.
