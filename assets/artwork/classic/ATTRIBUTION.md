@@ -166,3 +166,5 @@ CC BY 2.0. Manifest key: `jardine`.
 **Barbiers** - watercolour drawings by **Pieter Barbiers** in the **Rijksmuseum**, Amsterdam, via the Commons category [Drawings of birds in the Rijksmuseum Amsterdam](https://commons.wikimedia.org/wiki/Category:Drawings_of_birds_in_the_Rijksmuseum_Amsterdam). CC0. Manifest key: `barbiers`.
 
 **Lear** - *Illustrations of the Family of Psittacidae, or Parrots* by **Edward Lear** (1832), hand-coloured lithographs printed by **C. Hullmandel**, via the Commons category [Illustrations of the Family of Psittacidae, or Parrots (1832) by Edward Lear](https://commons.wikimedia.org/wiki/Category:Illustrations_of_the_Family_of_Psittacidae,_or_Parrots_(1832)_by_Edward_Lear). Public domain. Manifest key: `lear`.
+
+**Prang** - *Singing Birds. Family - Finches.*, a colour lithograph published by **Louis Prang** (1874), from the Library of Congress's Popular Graphic Arts collection via the Commons category [Popular Graphic Arts](https://commons.wikimedia.org/wiki/Category:Popular_Graphic_Arts). Public domain (PD-1923). Manifest key: `prang`.
